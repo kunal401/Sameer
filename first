@@ -1,0 +1,28 @@
+24 
+15
+2.7
+42000
+
+
+add commit then push
+pull: take from cloud to local
+fetch : updates index everytime. 
+
+add
+commit
+push 
+pull
+fetch
+checkout
+clone: remote repo to local.
+merge
+cherry pick
+stash 
+
+interact with repository
+readme file: contains all innstructions
+.gitignore: list names of  files ignored at push time
+
+
+
+one branch at a time in git. 
